@@ -1,12 +1,3 @@
-Listo Tanqueta, aquí tienes el *README que enamora* para tu Github. Ya con banner de portada incluido.
-
-Guarda estas 3 imágenes en tu repo en una carpeta `docs/`:
-
-- `hero_banner.webp` = la de arriba
-- `mockup_tecnico.webp` = el dibujo de la camilla con el celular en pecho
-- `soporte_3d.webp` = el plano del soporte
-- `demo_real.jpg` = la foto de tu Huawei que acabas de tomar
-### Copia y pega esto como `README.md`:
 # PARAMEDIC OFFLINE v1.0
 > **100% Offline • Sin conexión • Datos locales**
 > De la libreta a la camilla. Un celular, dos sensores, cero internet.
