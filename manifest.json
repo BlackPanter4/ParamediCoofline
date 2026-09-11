@@ -1,1 +1,9 @@
-
+{
+  "name": "Paramédico Sin Conexión v1.0",
+  "short_name": "Paramedico",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#d32f2f",
+  "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/2966/2966327.png", "sizes": "512x512", "type": "image/png" }]
+}
